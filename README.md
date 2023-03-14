@@ -7,7 +7,7 @@ This project was developed with Rocketseat video from YouTube: [Extraindo dados 
 1º - Install Puppeteer JS:
 <br>
 ~~~node
-npm i puppeter
+npm i puppeteer
 ~~~
 
 2º - Create index.js and run:
